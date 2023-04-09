@@ -9,9 +9,9 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.norch</groupId>
-    <artifactId>roseltorg-backend</artifactId>
+    <artifactId>rst-backend</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>roseltorg-backend</name>
+    <name>rst-backend</name>
     <description>roseltorg-backend</description>
     <properties>
         <java.version>17</java.version>
