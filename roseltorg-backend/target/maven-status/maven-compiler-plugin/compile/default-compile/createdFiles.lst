@@ -1,0 +1,9 @@
+com/norch/roseltorgbackend/repository/SupplierRepository.class
+com/norch/roseltorgbackend/model/Customer$CustomerBuilder.class
+com/norch/roseltorgbackend/repository/CustomerRepository.class
+com/norch/roseltorgbackend/model/Supplier.class
+com/norch/roseltorgbackend/RoseltorgBackendApplication.class
+com/norch/roseltorgbackend/model/Supplier$SupplierBuilder.class
+com/norch/roseltorgbackend/controllers/SupplierController.class
+com/norch/roseltorgbackend/controllers/CustomerController.class
+com/norch/roseltorgbackend/model/Customer.class
